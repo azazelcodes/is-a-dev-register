@@ -1,0 +1,10 @@
+{
+    "description": "Personal website",
+    "owner": {
+        "username": "azazelcodes",
+        "discord": "azazeldev"
+    },
+    "record": {
+        "A": ["80.134.193.202"]
+    }
+}
